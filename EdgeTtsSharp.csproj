@@ -10,6 +10,7 @@
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <FileVersion>1.0.0</FileVersion>
     <Description>Text to voice using Microsoft's Edge voices.</Description>
+    <RepositoryUrl>https://github.com/victor-wiki/EdgeTtsSharp</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
