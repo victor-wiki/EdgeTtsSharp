@@ -13,6 +13,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove=".gitattributes" />
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="victor-wiki.PyException" Version="1.0.0" />
     <PackageReference Include="victor-wiki.SharpUtility" Version="1.0.0" />
   </ItemGroup>
